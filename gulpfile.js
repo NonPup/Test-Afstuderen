@@ -1,3 +1,4 @@
+//runt een server voor ons, runt de website voor ons
 const gulp = require('gulp');
 const browserSync = require('browser-sync');
 const reload = browserSync.reload;
